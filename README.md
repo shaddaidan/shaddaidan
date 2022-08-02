@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything that dont already know
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on wed development projects
-- 📫 How to reach me shaddaidan@gmail.com 
+- 📫 How to reach me shaddaidan@gmail.com
 
 <!---
 shaddaidan/shaddaidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
