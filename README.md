@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaddaidan
-- 👀 I’m interested in everything that dont already know
+- 👀 I’m interested in anything that i dont already know
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on wed development projects
 - 📫 How to reach me shaddaidan@gmail.com
