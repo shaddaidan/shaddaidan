@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaddaidan
 - 👀 I’m interested in anything that i dont already know
-- 🌱 I’m currently learning javascript/python/data-science/full-stach-dev
-- 💞️ I’m looking to collaborate on wed development projects, automation projects, data science projects.
+- 🌱 I’m currently learning Javascript/Python/data-science/Software-development
+- 💞️ I’m looking to collaborate on wed development projects, automation projects, data science projects, reesarch and build nice products.
 - 📫 How to reach me shaddaidan@gmail.com
 
 <!---
